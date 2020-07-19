@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+h1  {
+    font-size:  5em;
+    color:  orangered;
+}
+
+#article-title  {
+    font-family:  cursive;
+}
+
+h2  {
+    color:  maroon;
+    font-family: Georgia;
+}
+
+p   {
+    font-family:  Helvetica;
+}
+
+#personal {
+    display: flex;
+    justify-content: space-between;
+}
+
+#personal div  {
+    width:  32%;
+    padding: 20px;
+    background-color: orange;
+}
+
+#projects img {
+    border:  3px solid darkgrey;
+}
+
+#links ul {
+
+    list-style: none;
+}
+
+footer  {
+    background-color:  orange;
+    padding:  10px;
+}
+
+.publish-time {
+    color-gray;
+}
